@@ -14,3 +14,5 @@ scikit-learn (SKLearn): https://scikit-learn.org/stable/index.html
 Matplotlib: https://matplotlib.org/index.html
 
 mplot3d tutorial: https://matplotlib.org/mpl_toolkits/mplot3d/tutorial.html
+
+Working with text panadas: https://pandas.pydata.org/pandas-docs/stable/user_guide/text.html
