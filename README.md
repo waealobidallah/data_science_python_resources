@@ -18,3 +18,5 @@ mplot3d tutorial: https://matplotlib.org/mpl_toolkits/mplot3d/tutorial.html
 Working with text pandas: https://pandas.pydata.org/pandas-docs/stable/user_guide/text.html
 
 NLTK: https://www.nltk.org/index.html#
+
+Desk: https://dask.org/
